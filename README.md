@@ -2,9 +2,9 @@
 
 # Atomic Red Team
 
-[![CircleCI](https://circleci.com/gh/redcanaryco/atomic-red-team.svg?style=svg)](https://circleci.com/gh/redcanaryco/atomic-red-team)
+![GitHub Action Status](https://github.com/redcanaryco/atomic-red-team/actions/workflows/validate-atomics.yml/badge.svg?branch=master) ![Atomics](https://img.shields.io/badge/Atomics-1707-flat.svg) ![GitHub Action Status](https://github.com/redcanaryco/atomic-red-team/actions/workflows/generate-docs.yml/badge.svg?branch=master)
 
-Atomic Red Team™ is library of tests mapped to the
+Atomic Red Team™ is a library of tests mapped to the
 [MITRE ATT&CK®](https://attack.mitre.org/) framework. Security teams can use
 Atomic Red Team to quickly, portably, and reproducibly test their environments.
 
@@ -37,3 +37,6 @@ becoming a contributor, check out these resources:
   for more information about contributing directly to this repository.
 - Check the [license](LICENSE.txt) for information regarding the distribution
   and modification of Atomic Red Team.
+- Contribute to linux atomics quickly from GitHub Codespaces. For more details, click [here](https://github.com/redcanaryco/atomic-red-team/wiki/Github-Codespaces)
+
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/redcanaryco/atomic-red-team)
